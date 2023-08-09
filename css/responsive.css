@@ -1,0 +1,1207 @@
+
+/*css media quary gose here*/
+@media (min-width: 280px) and (max-width: 319px){
+/*	css code start*/
+	.header{
+		padding: 30px 0px;
+	}
+	.header .navbar .navbar-nav .nav-item .nav-link{
+		margin: 0px;
+	}
+	.banner{
+		padding: 30px 0px 0px;
+	}
+	.banner h4{
+		font-size: 15px;
+	}
+	.banner h1{
+		font-size: 32px;
+	    line-height: 1.2em;
+	}
+
+	.banner p{
+		width: 100%;
+		font-size: 12px;
+		line-height: 1.7em;
+	}
+	.banner .dubble-btn{
+		padding: 10px 0px 0px;
+	}
+	.banner .dubble-btn .btn-primary{
+		padding: 8px 15px;
+		font-size: 12px;
+	}
+	.banner .dubble-btn .btn-light{
+		padding: 8px 15px;
+		font-size: 13px;
+		margin: 0px 0px 0px 0px;
+	}
+	.banner .banner-img{
+		width: 100%;
+
+	}
+	.banner .banner-img .img-fluid{
+		padding: 10px 0px;
+		margin: 20px 0px 0px
+	}
+
+	.feature{
+		width: 100%;
+		padding: 30px 0px;
+	}
+	.tittle {
+	    width: 100%;
+	    padding: 0px 0px 10px;
+	}
+	.feature .tittle h4{
+		font-size: 15px;
+		margin: 0px;
+	}
+	.feature .tittle h1{
+		font-size: 32px;
+	    line-height: 1.2em;
+	    margin: 0px;
+	}
+	.feature .tittle img{
+		margin: 0px;
+	}
+	.feature .icon-box{
+		padding: 10px 0px;
+	}
+	.feature .icon-box .icon{
+		margin: 0px auto 10px;
+	}
+	.icon-box h4{
+		font-size: 15px;
+		margin: 0px 0px 5px;
+	}
+	.icon-box p{
+		font-size: 15px;
+	}
+
+	.About-long{
+		width: 100%;
+		padding: 30px 0px;
+	}
+	.About-long .tittle{
+		padding: 10px 0px 5px;
+	}
+	.About-long .tittle h4{
+		font-size: 15px;
+		margin: 0px;
+	}
+	.About-long .tittle h1{
+	    font-size: 26px;
+		margin: 0px;
+	}
+	.About-long p{
+		width: 100%;
+	    text-align: center;
+	    font-size: 12px;
+	    line-height: 1.7em;
+		}
+	.About-long ul {
+	    display: block;
+	    padding: 5px 0px;
+	}
+	.About-long ul li{
+		font-size: 12px;
+	    line-height: 1.7em;
+	    margin: 0px 0px 5px 101px;
+	}
+	.About-sort{
+		padding: 30px 0px;
+	}
+	.About-sort .tittle{
+		width: 100%;
+		text-align: center;
+	}
+	.About-sort .tittle h4{
+		font-size: 15px;
+    	margin: 0px;
+	}
+	.About-sort .tittle h1{
+		font-size: 26px;
+    	margin: 0px;
+	}
+	.About-sort p{
+		text-align: center;
+	    font-size: 12px;
+	    line-height: 1.7em;
+	}
+	.About-sort .img-fluid{
+		width: 100%;
+	}
+	.testimonials{
+		width: 100%;
+		padding: 30px 0px;
+	}
+	.testimonials .tittle{
+		width: 100%;
+		padding: 10px 0px 10px;
+	}
+	.testimonials .tittle h4{
+	    font-size: 15px;
+		margin: 0px;
+	}
+	.testimonials .tittle h1{
+	    font-size: 32px;
+    	margin: 10px 0px 11px;
+	}
+	.testimonials .owl-carousel{
+		padding: 30px 0px 8px;
+	}
+	.testimonials .owl-carousel .item h4{
+		font-size: 15px;
+		line-height: 1.5em;
+		margin: 0px 0px 15px;
+	}
+	.testimonials .owl-carousel .item .claint{
+		width: 65px;
+		height: 65px;
+	}
+	.testimonials .owl-carousel .item p{
+		width: 100%;
+	    position: absolute;
+	    left: 20%;
+	    top: 50%;
+	}
+	.testimonials .owl-theme .owl-nav.disabled .owl-dots{
+	    margin-top: 40px;
+	}
+
+	.eye-catcher{
+	    width: 100%;
+	    padding: 20px 0px;
+	}
+	.eye-catcher h1{
+		font-size: 28px;
+		line-height: 1.2em;
+	}
+	.eye-catcher .dubble-btn {
+	    width: 100%;
+	}
+	.eye-catcher .dubble-btn .btn-light {
+	    font-size: 13px;
+	    padding: 8px 15px;
+	    margin: 0px 10px 0px 0px;
+	}
+	.eye-catcher .dubble-btn .btn-primary {
+		font-size: 13px;
+	    padding: 8px 15px;
+	}
+	.price{
+		width: 100%;
+		padding: 30px 0px;
+	}
+	.price .tittle h4 {
+    	font-size: 15px;
+	    margin: 20px 0px 0px;
+	}
+	.price .tittle h1{
+		font-size: 32px;
+		margin: 0px;
+	}
+	.price-box .price-head {
+	    width: 100%;
+	    padding: 8px 0px; 
+	}
+	.price-box .price-head h3{
+		font-size: 20px;
+	}
+	.price-box .main-price {
+    	width: 100%;
+    	padding: 5px;
+	}
+	.price-box .main-price h1{
+		font-size: 60px;
+	}
+	.price-box .main-price h1 sup{
+		font-size: 28px;
+	}
+	.price-box .main-price p{
+		font-size: 12px;
+    	margin: -5px 0px 0px
+	}
+	.price-box .price-content {
+	    width: 100%;
+	    padding: 10px 15px;
+	}
+	.price-box .price-content p {
+	    font-size: 12px;
+	    margin: 0px 0px 20px;
+	}
+	.price-box .price-content .btn-primary{
+		font-size: 12px;
+		padding: 5px 10px;
+	}
+	.contact{
+		width: 100%;
+		padding: 20px 0px;
+	}
+	.contact .tittle{
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	}
+	.contact .tittle h4{
+		font-size: 15px;
+    	margin: 0px;
+	}
+	.contact .tittle h1{
+		font-size: 32px;
+    	margin: 5px 0px 10px;
+	}
+	.contact .info{
+	    width: 100%;
+    	padding: 10px 0px;
+	}
+	.contact .info i{
+		font-size: 32px;
+    	margin: 0px 0px 10px;
+	}
+	.contact .info p{
+		font-size: 12px;
+    	line-height: 1.5em;
+	}
+
+	.contact-from{
+		width: 100%;
+	    padding: 10px 20px;
+	    margin: 0px 0px -35px;
+	}
+	.contact-from .from-control{
+		width: 100%;
+	    padding: 5px;
+	    font-size: 12px;
+	}
+	.contact-from .btn-primary{
+		font-size: 12px;
+    	padding: 8px 15px;
+	}
+	.footer{
+		width: 100%;
+		padding: 10px 0px 0px;
+	}
+	.social-icons .fa{
+		font-size: 12px;
+	}
+	.copyright{
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	}
+	.copyright p{
+		font-size: 12px;
+	}
+
+/*	css code end*/
+
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+/*	css code start*/
+	.header{
+		padding: 40px 0px;
+	}
+	.header .navbar .navbar-nav .nav-item .nav-link{
+		margin: 0px;
+	}
+	.banner{
+		padding: 40px 0px 0px;
+	}
+	.banner h4{
+		font-size: 16px;
+	}
+	.banner h1{
+		font-size: 34px;
+	    line-height: 1.2em;
+	}
+
+	.banner p{
+		width: 100%;
+		font-size: 13px;
+		line-height: 1.7em;
+	}
+	.banner .dubble-btn{
+		padding: 20px 0px 0px;
+	}
+	.banner .dubble-btn .btn-primary{
+		padding: 10px 20px;
+		font-size: 13px;
+	}
+	.banner .dubble-btn .btn-light{
+		padding: 10px 20px;
+		font-size: 13px;
+		margin: 0px 0px 0px 0px;
+	}
+	.banner .banner-img{
+		width: 100%;
+
+	}
+	.banner .banner-img .img-fluid{
+		padding: 20px 0px;
+		margin: 20px 0px 0px
+	}
+
+	.feature{
+		width: 100%;
+		padding: 40px 0px;
+	}
+	.tittle {
+	    width: 100%;
+	    padding: 0px 0px 20px;
+	}
+	.feature .tittle h4{
+		font-size: 16px;
+		margin: 0px;
+	}
+	.feature .tittle h1{
+		font-size: 34px;
+	    line-height: 1.2em;
+	    margin: 0px;
+	}
+	.feature .tittle img{
+		margin: 0px;
+	}
+	.feature .icon-box{
+		padding: 20px 0px;
+	}
+	.feature .icon-box .icon{
+		margin: 0px auto 10px;
+	}
+	.icon-box h4{
+		font-size: 16px;
+		margin: 0px 0px 5px;
+	}
+	.icon-box p{
+		font-size: 13px;
+	}
+
+	.About-long{
+		width: 100%;
+		padding: 40px 0px;
+	}
+	.About-long .tittle{
+		padding: 20px 0px 10px;
+	}
+	.About-long .tittle h4{
+		font-size: 16px;
+		margin: 0px;
+	}
+	.About-long .tittle h1{
+	    font-size: 28px;
+		margin: 0px;
+	}
+	.About-long p{
+		width: 100%;
+	    text-align: center;
+	    font-size: 13px;
+	    line-height: 1.7em;
+		}
+	.About-long ul {
+	    display: block;
+	    padding: 5px 0px;
+	}
+	.About-long ul li{
+		font-size: 13px;
+	    line-height: 1.7em;
+	    margin: 0px 0px 5px 101px;
+	}
+	.About-sort{
+		padding: 40px 0px;
+	}
+	.About-sort .tittle{
+		width: 100%;
+		text-align: center;
+	}
+	.About-sort .tittle h4{
+		font-size: 16px;
+    	margin: 0px;
+	}
+	.About-sort .tittle h1{
+		font-size: 28px;
+    	margin: 0px;
+	}
+	.About-sort p{
+		text-align: center;
+	    font-size: 13px;
+	    line-height: 1.7em;
+	}
+	.About-sort .img-fluid{
+		width: 100%;
+	}
+	.testimonials{
+		width: 100%;
+		padding: 40px 0px;
+	}
+	.testimonials .tittle{
+		width: 100%;
+		padding: 20px 0px 20px;
+	}
+	.testimonials .tittle h4{
+	    font-size: 16px;
+		margin: 0px;
+	}
+	.testimonials .tittle h1{
+	    font-size: 34px;
+    	margin: 10px 0px 11px;
+	}
+	.testimonials .owl-carousel{
+		padding: 40px 0px 10px;
+	}
+	.testimonials .owl-carousel .item h4{
+		font-size: 16px;
+		line-height: 1.5em;
+		margin: 0px 0px 15px;
+	}
+	.testimonials .owl-carousel .item .claint{
+		width: 75px;
+		height: 75px;
+	}
+	.testimonials .owl-carousel .item p{
+		width: 100%;
+	    position: absolute;
+	    left: 20%;
+	    top: 50%;
+	}
+	.testimonials .owl-theme .owl-nav.disabled .owl-dots{
+	    margin-top: 40px;
+	}
+
+	.eye-catcher{
+	    width: 100%;
+	    padding: 25px 0px;
+	}
+	.eye-catcher h1{
+		font-size: 28px;
+		line-height: 1.2em;
+	}
+	.eye-catcher .dubble-btn {
+	    width: 100%;
+	}
+	.eye-catcher .dubble-btn .btn-light {
+	    font-size: 13px;
+	    padding: 10px 20px;
+	    margin: 0px 10px 0px 0px;
+	}
+	.eye-catcher .dubble-btn .btn-primary {
+		font-size: 13px;
+	    padding: 10px 20px;
+	}
+	.price{
+		width: 100%;
+		padding: 40px 0px;
+	}
+	.price .tittle h4 {
+    	font-size: 16px;
+	    margin: 20px 0px 0px;
+	}
+	.price .tittle h1{
+		font-size: 34px;
+		margin: 0px;
+	}
+	.price-box .price-head {
+	    width: 100%;
+	    padding: 10px 0px; 
+	}
+	.price-box .price-head h3{
+		font-size: 22px;
+	}
+	.price-box .main-price {
+    	width: 100%;
+    	padding: 5px;
+	}
+	.price-box .main-price h1{
+		font-size: 70px;
+	}
+	.price-box .main-price h1 sup{
+		font-size: 32px;
+	}
+	.price-box .main-price p{
+		font-size: 13px;
+    	margin: -5px 0px 0px
+	}
+	.price-box .price-content {
+	    width: 100%;
+	    padding: 20px 25px;
+	}
+	.price-box .price-content p {
+	    font-size: 13px;
+	    margin: 0px 0px 20px;
+	}
+	.price-box .price-content .btn-primary{
+		font-size: 13px;
+		padding: 10px 20px;
+	}
+	.contact{
+		width: 100%;
+		padding: 40px 0px;
+	}
+	.contact .tittle{
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	}
+	.contact .tittle h4{
+		font-size: 16px;
+    	margin: 0px;
+	}
+	.contact .tittle h1{
+		font-size: 35px;
+    	margin: 5px 0px 10px;
+	}
+	.contact .info{
+	    width: 100%;
+    	padding: 20px 0px;
+	}
+	.contact .info i{
+		font-size: 35px;
+    	margin: 0px 0px 10px;
+	}
+	.contact .info p{
+		font-size: 13px;
+    	line-height: 1.5em;
+	}
+
+	.contact-from{
+		width: 100%;
+	    padding: 20px 30px;
+	    margin: 0px 0px -35px;
+	}
+	.contact-from .from-control{
+		width: 100%;
+	    padding: 5px;
+	    font-size: 13px;
+	}
+	.contact-from .btn-primary{
+		font-size: 13px;
+    	padding: 10px 20px;
+	}
+	.footer{
+		width: 100%;
+		padding: 20px 0px 0px;
+	}
+	.social-icons .fa{
+		font-size: 13px;
+	}
+	.copyright{
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	}
+	.copyright p{
+		font-size: 13px;
+	}
+
+/*	css code end*/
+
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+/*	css code start*/
+		.header{
+		padding: 50px 0px;
+	}
+	.header .navbar .navbar-nav .nav-item .nav-link{
+		margin: 0px;
+	}
+	.banner{
+		padding: 50px 0px 0px;
+	}
+	.banner h4{
+		font-size: 18px;
+	}
+	.banner h1{
+		font-size: 36px;
+	    line-height: 1.2em;
+	}
+
+	.banner p{
+		width: 100%;
+		font-size: 14px;
+		line-height: 1.7em;
+	}
+	.banner .dubble-btn{
+		padding: 25px 0px 0px;
+	}
+	.banner .dubble-btn .btn-primary{
+		padding: 15px 30px;
+		font-size: 14px;
+	}
+	.banner .dubble-btn .btn-light{
+		padding: 15px 30px;
+		font-size: 14px;
+		margin: 0px 0px 0px 0px;
+	}
+	.banner .banner-img{
+		width: 100%;
+
+	}
+	.banner .banner-img .img-fluid{
+		padding: 30px 0px;
+		margin: 25px 0px 0px
+	}
+
+	.feature{
+		width: 100%;
+		padding: 50px 0px;
+	}
+	.tittle {
+	    width: 100%;
+	    padding: 0px 0px 25px;
+	}
+	.feature .tittle h4{
+		font-size: 18px;
+		margin: 0px;
+	}
+	.feature .tittle h1{
+		font-size: 36px;
+	    line-height: 1.2em;
+	    margin: 0px;
+	}
+	.feature .tittle img{
+		margin: 0px;
+	}
+	.feature .icon-box{
+		padding: 30px 0px;
+	}
+	.feature .icon-box .icon{
+		margin: 0px auto 15px;
+	}
+	.icon-box h4{
+		font-size: 18px;
+		margin: 0px 0px 5px;
+	}
+	.icon-box p{
+		font-size: 14px;
+	}
+
+	.About-long{
+		width: 100%;
+		padding: 50px 0px;
+	}
+	.About-long .tittle{
+		padding: 25px 0px 15px;
+	}
+	.About-long .tittle h4{
+		font-size: 18px;
+		margin: 0px;
+	}
+	.About-long .tittle h1{
+	    font-size: 30px;
+		margin: 0px;
+	}
+	.About-long p{
+		width: 100%;
+	    text-align: center;
+	    font-size: 14px;
+	    line-height: 1.7em;
+		}
+	.About-long ul {
+	    display: block;
+	    padding: 10px 0px;
+	}
+	.About-long ul li{
+		font-size: 14px;
+	    line-height: 1.7em;
+	    margin: 0px 0px 5px 101px;
+	}
+	.About-sort{
+		padding: 50px 0px;
+	}
+	.About-sort .tittle{
+		width: 100%;
+		text-align: center;
+	}
+	.About-sort .tittle h4{
+		font-size: 18px;
+    	margin: 0px;
+	}
+	.About-sort .tittle h1{
+		font-size: 30px;
+    	margin: 0px;
+	}
+	.About-sort p{
+		text-align: center;
+	    font-size: 14px;
+	    line-height: 1.7em;
+	}
+	.About-sort .img-fluid{
+		width: 100%;
+	}
+	.testimonials{
+		width: 100%;
+		padding: 50px 0px;
+	}
+	.testimonials .tittle{
+		width: 100%;
+		padding: 25px 0px 25px;
+	}
+	.testimonials .tittle h4{
+	    font-size: 18px;
+		margin: 0px;
+	}
+	.testimonials .tittle h1{
+	    font-size: 36px;
+    	margin: 10px 0px 11px;
+	}
+	.testimonials .owl-carousel{
+		padding: 50px 0px 20px;
+	}
+	.testimonials .owl-carousel .item h4{
+		font-size: 18px;
+		line-height: 1.5em;
+		margin: 0px 0px 15px;
+	}
+	.testimonials .owl-carousel .item .claint{
+		width: 80px;
+		height: 80px;
+	}
+	.testimonials .owl-carousel .item p{
+		width: 100%;
+	    position: absolute;
+	    left: 20%;
+	    top: 50%;
+	}
+	.testimonials .owl-theme .owl-nav.disabled .owl-dots{
+	    margin-top: 40px;
+	}
+
+	.eye-catcher{
+	    width: 100%;
+	    padding: 30px 0px;
+	}
+	.eye-catcher h1{
+		font-size: 30px;
+		line-height: 1.2em;
+	}
+	.eye-catcher .dubble-btn {
+	    width: 100%;
+	}
+	.eye-catcher .dubble-btn .btn-light {
+	    font-size: 13px;
+	    padding: 15px 25px;
+	    margin: 0px 10px 0px 0px;
+	}
+	.eye-catcher .dubble-btn .btn-primary {
+		font-size: 14px;
+	    padding: 15px 25px;
+	}
+	.price{
+		width: 100%;
+		padding: 50px 0px;
+	}
+	.price .tittle h4 {
+    	font-size: 18px;
+	    margin: 20px 0px 0px;
+	}
+	.price .tittle h1{
+		font-size: 36px;
+		margin: 0px;
+	}
+	.price-box .price-head {
+	    width: 100%;
+	    padding: 15px 0px; 
+	}
+	.price-box .price-head h3{
+		font-size: 24px;
+	}
+	.price-box .main-price {
+    	width: 100%;
+    	padding: 10px;
+	}
+	.price-box .main-price h1{
+		font-size: 75px;
+	}
+	.price-box .main-price h1 sup{
+		font-size: 36px;
+	}
+	.price-box .main-price p{
+		font-size: 14px;
+    	margin: -5px 0px 0px
+	}
+	.price-box .price-content {
+	    width: 100%;
+	    padding: 25px 30px;
+	}
+	.price-box .price-content p {
+	    font-size: 14px;
+	    margin: 0px 0px 20px;
+	}
+	.price-box .price-content .btn-primary{
+		font-size: 14px;
+		padding: 15px 25px;
+	}
+	.contact{
+		width: 100%;
+		padding: 50px 0px;
+	}
+	.contact .tittle{
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	}
+	.contact .tittle h4{
+		font-size: 18px;
+    	margin: 0px;
+	}
+	.contact .tittle h1{
+		font-size: 36px;
+    	margin: 5px 0px 10px;
+	}
+	.contact .info{
+	    width: 100%;
+    	padding: 25px 0px;
+	}
+	.contact .info i{
+		font-size: 36px;
+    	margin: 0px 0px 10px;
+	}
+	.contact .info p{
+		font-size: 14px;
+    	line-height: 1.5em;
+	}
+
+	.contact-from{
+		width: 100%;
+	    padding: 25px 35px;
+	    margin: 0px 0px -35px;
+	}
+	.contact-from .from-control{
+		width: 100%;
+	    padding: 8px;
+	    font-size: 14px;
+	}
+	.contact-from .btn-primary{
+		font-size: 14px;
+    	padding: 15px 25px;
+	}
+	.footer{
+		width: 100%;
+		padding: 25px 0px 0px;
+	}
+	.social-icons .fa{
+		font-size: 14px;
+	}
+	.copyright{
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	}
+	.copyright p{
+		font-size: 14px;
+	}
+
+
+/*	css code end*/
+
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+/*	css code start*/
+	.header{
+		padding: 60px 0px;
+	}
+	.header .navbar .navbar-nav .nav-item .nav-link{
+		margin: 0px;
+	}
+	.banner{
+		padding: 60px 0px 0px;
+	}
+	.banner h4{
+		font-size: 20px;
+	}
+	.banner h1{
+		font-size: 38px;
+	    line-height: 1.2em;
+	}
+
+	.banner p{
+		width: 100%;
+		font-size: 14px;
+		line-height: 1.7em;
+	}
+	.banner .dubble-btn{
+		padding: 30px 0px 0px;
+	}
+	.banner .dubble-btn .btn-primary{
+		padding: 20px 35px;
+		font-size: 14px;
+	}
+	.banner .dubble-btn .btn-light{
+		padding: 20px 35px;
+		font-size: 14px;
+		margin: 0px 0px 0px 0px;
+	}
+	.banner .banner-img{
+		width: 100%;
+
+	}
+	.banner .banner-img .img-fluid{
+		padding: 35px 0px;
+		margin: 25px 0px 0px
+	}
+
+	.feature{
+		width: 100%;
+		padding: 60px 0px;
+	}
+	.tittle {
+	    width: 100%;
+	    padding: 0px 0px 25px;
+	}
+	.feature .tittle h4{
+		font-size: 20px;
+		margin: 0px;
+	}
+	.feature .tittle h1{
+		font-size: 38px;
+	    line-height: 1.2em;
+	    margin: 0px;
+	}
+	.feature .tittle img{
+		margin: 0px;
+	}
+	.feature .icon-box{
+		padding: 30px 0px;
+	}
+	.img-fluid {
+	    max-width: 100%;
+	    height: auto;
+	    text-align: center;
+	    margin: 0px 0px 0px 70px;
+	}
+	.feature .icon-box .icon{
+		margin: 0px auto 15px;
+	}
+	.icon-box h4{
+		font-size: 20px;
+		margin: 0px 0px 5px;
+	}
+	.icon-box p{
+		font-size: 14px;
+	}
+
+	.About-long{
+		width: 100%;
+		padding: 60px 0px;
+	}
+	.About-long .tittle{
+		padding: 30px 0px 20px;
+	}
+	.About-long .tittle h4{
+		font-size: 20px;
+		margin: 0px;
+	}
+	.About-long .tittle h1{
+	    font-size: 32px;
+		margin: 0px;
+	}
+	.About-long p{
+		width: 100%;
+	    text-align: center;
+	    font-size: 14px;
+	    line-height: 1.7em;
+		}
+	.About-long ul {
+	    display: block;
+	    padding: 20px 0px;
+	}
+	.About-long ul li{
+		font-size: 14px;
+	    line-height: 1.7em;
+	    margin: 0px 0px 5px 101px;
+	}
+	.About-sort{
+		padding: 60px 0px;
+	}
+	.About-sort .tittle{
+		width: 100%;
+		text-align: center;
+	}
+	.About-sort .tittle h4{
+		font-size: 20px;
+    	margin: 0px;
+	}
+	.About-sort .tittle h1{
+		font-size: 32px;
+    	margin: 0px;
+	}
+	.About-sort p{
+		text-align: center;
+	    font-size: 14px;
+	    line-height: 1.7em;
+	}
+	.About-sort .img-fluid{
+		width: 100%;
+	}
+	.testimonials{
+		width: 100%;
+		padding: 60px 0px;
+	}
+	.testimonials .tittle{
+		width: 100%;
+		padding: 30px 0px 30px;
+	}
+	.testimonials .tittle h4{
+	    font-size: 20px;
+		margin: 0px;
+	}
+	.testimonials .tittle h1{
+	    font-size: 38px;
+    	margin: 10px 0px 11px;
+	}
+	.testimonials .owl-carousel{
+		padding: 60px 0px 25px;
+	}
+	.testimonials .owl-carousel .item h4{
+		font-size: 20px;
+		line-height: 1.5em;
+		margin: 0px 0px 15px;
+	}
+	.testimonials .owl-carousel .item .claint{
+		width: 90px;
+		height: 90px;
+	}
+	.testimonials .owl-carousel .item p{
+		width: 100%;
+	    position: absolute;
+	    left: 20%;
+	    top: 50%;
+	}
+	.testimonials .owl-theme .owl-nav.disabled .owl-dots{
+	    margin-top: 40px;
+	}
+
+	.eye-catcher{
+	    width: 100%;
+	    padding: 35px 0px;
+	}
+	.eye-catcher h1{
+		font-size: 32px;
+		line-height: 1.2em;
+	}
+	.eye-catcher .dubble-btn {
+	    width: 100%;
+	}
+	.eye-catcher .dubble-btn .btn-light {
+	    font-size: 14px;
+	    padding: 20px 30px;
+	    margin: 0px 10px 0px 0px;
+	}
+	.eye-catcher .dubble-btn .btn-primary {
+		font-size: 14px;
+	    padding: 20px 30px;
+	}
+	.price{
+		width: 100%;
+		padding: 60px 0px;
+	}
+	.price .tittle h4 {
+    	font-size: 20px;
+	    margin: 20px 0px 0px;
+	}
+	.price .tittle h1{
+		font-size: 38px;
+		margin: 0px;
+	}
+	.price-box .price-head {
+	    width: 100%;
+	    padding: 20px 0px; 
+	}
+	.price-box .price-head h3{
+		font-size: 26px;
+	}
+	.price-box .main-price {
+    	width: 100%;
+    	padding: 15px;
+	}
+	.price-box .main-price h1{
+		font-size: 80px;
+	}
+	.price-box .main-price h1 sup{
+		font-size: 38px;
+	}
+	.price-box .main-price p{
+		font-size: 14px;
+    	margin: -5px 0px 0px
+	}
+	.price-box .price-content {
+	    width: 100%;
+	    padding: 30px 35px;
+	}
+	.price-box .price-content p {
+	    font-size: 14px;
+	    margin: 0px 0px 20px;
+	}
+	.price-box .price-content .btn-primary{
+		font-size: 14px;
+		padding: 20px 30px;
+	}
+	.contact{
+		width: 100%;
+		padding: 60px 0px;
+	}
+	.contact .tittle{
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	}
+	.contact .tittle h4{
+		font-size: 20px;
+    	margin: 0px;
+	}
+	.contact .tittle h1{
+		font-size: 38px;
+    	margin: 5px 0px 10px;
+	}
+	.contact .info{
+	    width: 100%;
+    	padding: 30px 0px;
+	}
+	.contact .info i{
+		font-size: 38px;
+    	margin: 0px 0px 10px;
+	}
+	.contact .info p{
+		font-size: 14px;
+    	line-height: 1.5em;
+	}
+
+	.contact-from{
+		width: 100%;
+	    padding: 30px 40px;
+	    margin: 0px 0px -35px;
+	}
+	.contact-from .from-control{
+		width: 100%;
+	    padding: 10px;
+	    font-size: 14px;
+	}
+	.contact-from .btn-primary{
+		font-size: 14px;
+    	padding: 20px 30px;
+	}
+	.footer{
+		width: 100%;
+		padding: 30px 0px 0px;
+	}
+	.social-icons .fa{
+		font-size: 14px;
+	}
+	.copyright{
+		width: 100%;
+		padding: 0px;
+		margin: 0px;
+	}
+	.copyright p{
+		font-size: 14px;
+	}
+
+
+
+/*	css code end*/
+
+}
+
